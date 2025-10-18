@@ -9,9 +9,9 @@ BINUTILS_FILENAME="$BINUTILS_DIRECTORY.tar.gz"
 BINUTILS_URL="http://ftp.gnu.org/gnu/binutils/$BINUTILS_FILENAME"
 
 GCC_VERSION=11.1
-GCC_DIRECTORY="gcc-11.1.0-RC-20210423"
-GCC_FILENAME="gcc-11.1.0-RC-20210423.tar.gz"
-GCC_URL="https://gcc.gnu.org/pub/gcc/snapshots/11.1.0-RC-20210423/gcc-11.1.0-RC-20210423.tar.gz"
+GCC_DIRECTORY="gcc-11.1.0"
+GCC_FILENAME="gcc-11.1.0.tar.gz"
+GCC_URL="https://ftp.gnu.org/gnu/gcc/gcc-11.1.0/gcc-11.1.0.tar.gz"
 
 # ---------------------------------------------------------------------------- #
 
